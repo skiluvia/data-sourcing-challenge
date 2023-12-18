@@ -14,7 +14,7 @@ We will use the Movie ID we got from the New York Times search to gather more de
 We will merge both of these results and export to a CSV file.
 
 ## Summary
-In this challenge we have learned mainly what we need in order to make and how to make API calls and using dataframe to make decisions on the date we get.
+In this challenge we have learned mainly what we need in order to make and how to make API calls and using dataframe to make decisions on the data we get.
 
 
 
